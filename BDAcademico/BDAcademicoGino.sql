@@ -6,12 +6,12 @@ use master
 go
 --------------------------------------------------------------------------------------------
 if DB_ID('BDAcademico') is not null
-   drop database BDAcademico
+   drop database BDAcademicoGino
 go
-create database BDAcademico
+create database BDAcademicoGino
 go
 --------------------------------------------------------------------------------------------
-use BDAcademico
+use BDAcademicoGino
 go
 --------------------------------------------------------------------------------------------
 if OBJECT_ID('TEscuela','U') is not null

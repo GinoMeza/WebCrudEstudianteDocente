@@ -1,4 +1,4 @@
-use BDAcademico
+use BDAcademicoGino
 go
 
 -- Procedimientos almacenados para TAlumno
