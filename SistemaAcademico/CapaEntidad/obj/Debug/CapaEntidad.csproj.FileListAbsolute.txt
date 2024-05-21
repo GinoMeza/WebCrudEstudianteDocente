@@ -10,3 +10,9 @@ C:\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.As
 C:\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\SistemaAcademico\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\SistemaAcademico\WebCrudEstudianteDocente\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\SistemaAcademico\WebCrudEstudianteDocente\SistemaAcademico\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\SistemaAcademico\WebCrudEstudianteDocente\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\SistemaAcademico\WebCrudEstudianteDocente\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\SistemaAcademico\WebCrudEstudianteDocente\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\SistemaAcademico\WebCrudEstudianteDocente\SistemaAcademico\CapaEntidad\obj\Debug\CapaEntidad.pdb

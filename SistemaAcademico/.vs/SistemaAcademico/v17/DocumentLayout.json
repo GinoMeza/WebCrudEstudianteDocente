@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capanegocio\\interface\\ialumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\ialumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capanegocio\\interface\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capanegocio\\interface\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\interface\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmsistemadocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemadocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmsistemadocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemadocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmsistemaalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemaalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capanegocio\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06B4F96-C75B-4716-8507-170BEC7C5698}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmsistemaalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmsistemaalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\sistemaacademico\\webcrudestudiantedocente\\sistemaacademico\\capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
@@ -13,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capanegocio\\alumnobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39B65B51-90D7-48E4-A18D-DEA9C9558EB5}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\alumnobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{70316C0A-6C0F-4586-BE43-D4D1FA5BCBDC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,19 +99,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IAlumno.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\Interface\\IAlumno.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IAlumno.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\Interface\\IAlumno.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IAlumno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:15:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\Interface\\Docente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\Docente.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\Interface\\Docente.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:01:09.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSistemaDocente.aspx",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaDocente.aspx",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaDocente.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaDocente.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T21:21:25.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSistemaDocente.aspx.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaDocente.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:45:55.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\Interface\\IUsuario.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Interface\\IUsuario.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\Interface\\IUsuario.cs",
+              "RelativeToolTip": "CapaNegocio\\Interface\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:08:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.aspx",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmLogin.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.aspx",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmLogin.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T21:16:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSistemaAlumno.aspx",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaAlumno.aspx",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaAlumno.aspx",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaAlumno.aspx",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaAlumno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T21:18:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.aspx.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmLogin.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.aspx.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmLogin.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:22:57.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioBL.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\UsuarioBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\UsuarioBL.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\UsuarioBL.cs",
+              "RelativeToolTip": "CapaNegocio\\UsuarioBL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:10:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaEntidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaEntidad\\Usuario.cs",
+              "RelativeToolTip": "CapaEntidad\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:06:47.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.aspx.designer.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmLogin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmLogin.aspx.designer.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmLogin.aspx.designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmLogin.aspx.designer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:55:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSistemaAlumno.aspx.cs",
+              "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmSistemaAlumno.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:38:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\Web.config",
               "RelativeDocumentMoniker": "CapaPresentacion\\Web.config",
               "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\Web.config",
               "RelativeToolTip": "CapaPresentacion\\Web.config",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABuAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-05-20T07:33:29.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\Site.Master",
               "RelativeDocumentMoniker": "CapaPresentacion\\Site.Master",
@@ -71,23 +275,25 @@
               "RelativeToolTip": "CapaPresentacion\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-20T07:09:11.738Z"
+              "WhenOpened": "2024-05-20T07:09:11.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "frmDocente.aspx.cs",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx.cs",
               "ToolTip": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx.cs",
               "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAABDAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:28:13.873Z"
+              "WhenOpened": "2024-05-20T06:28:13.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "DocenteBL.cs",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\DocenteBL.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\DocenteBL.cs",
@@ -95,11 +301,12 @@
               "RelativeToolTip": "CapaNegocio\\DocenteBL.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAkwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:27:48.254Z"
+              "WhenOpened": "2024-05-20T06:27:48.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Docente.cs",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaEntidad\\Docente.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Docente.cs",
@@ -107,11 +314,12 @@
               "RelativeToolTip": "CapaEntidad\\Docente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:27:08.435Z"
+              "WhenOpened": "2024-05-20T06:27:08.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "frmDocente.aspx",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmDocente.aspx",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmDocente.aspx",
@@ -119,11 +327,12 @@
               "RelativeToolTip": "CapaPresentacion\\frmDocente.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-20T06:09:59.493Z"
+              "WhenOpened": "2024-05-20T06:09:59.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "AlumnoBL.cs",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaNegocio\\AlumnoBL.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\AlumnoBL.cs",
@@ -131,11 +340,12 @@
               "RelativeToolTip": "CapaNegocio\\AlumnoBL.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T04:51:39.177Z"
+              "WhenOpened": "2024-05-20T04:51:39.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "frmAlumno.aspx",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx",
@@ -143,11 +353,12 @@
               "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-20T03:15:09.877Z"
+              "WhenOpened": "2024-05-20T03:15:09.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "frmAlumno.aspx.cs",
               "DocumentMoniker": "C:\\SistemaAcademico\\WebCrudEstudianteDocente\\SistemaAcademico\\CapaPresentacion\\frmAlumno.aspx.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmAlumno.aspx.cs",
@@ -155,7 +366,8 @@
               "RelativeToolTip": "CapaPresentacion\\frmAlumno.aspx.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T04:43:00.829Z"
+              "WhenOpened": "2024-05-20T04:43:00.829Z",
+              "EditorCaption": ""
             }
           ]
         }
